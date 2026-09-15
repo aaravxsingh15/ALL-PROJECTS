@@ -2,6 +2,8 @@
 
 Made 103+ projects. Locally and on the Internet!
 
+Top 17.6% worldwide — HackerRank Orchestrate, Sep 2026.
+
 ## Internships
 
 - **ML Engineer and AI Automation Intern** — ComputeGenomics Pvt. Ltd. (Internship), Jun 2026 - Jul 2026 · 2 mos, Noida, Uttar Pradesh, India · On-site — Built ML pipelines and ecosystems. Skills: Data Engineering, Python, +5 more.
