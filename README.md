@@ -117,7 +117,6 @@ Top 17.6% worldwide — HackerRank Orchestrate, Sep 2026.
 37. [Notebook](https://colab.research.google.com/drive/1F3tf2HIPo0MUgEHb05_KmWDDzvU5rnES?usp=sharing)
 38. Basic Temperature Prediction Model.
 
-> Note: these notebooks require Google sign-in to open. If you want them viewable by anyone who clicks through, set sharing to "Anyone with the link" on each one in Google Drive.
 
 ## Not Yet Linked
 
