@@ -1,6 +1,11 @@
 # ALL-PROJECTS
 
 Made 103+ projects. Locally and on the Internet!
+some of the projects links are not available with me right now!! as they got misplaced apologies for that
+plus some links here may be repeated but all in all 103+ projects are done and thats what matters
+
+https://leetcode.com/u/aarav6769/
+leetcode profile link
 
 Top 17.6% worldwide — HackerRank Orchestrate, Sep 2026.
 
