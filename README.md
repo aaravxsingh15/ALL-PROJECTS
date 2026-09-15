@@ -1,6 +1,6 @@
 # ALL-PROJECTS
 
-Made 103+ projects.
+Made 103+ projects. Locally and on the Internet!
 
 ## Internships
 
