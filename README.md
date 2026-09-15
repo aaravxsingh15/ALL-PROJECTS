@@ -110,7 +110,10 @@ Made 103+ projects. Locally and on the Internet!
 35. [Notebook](https://colab.research.google.com/drive/1y7W1f6aLyWqBPOYyrPrhnv42gmIGyq6R?usp=sharing)
 36. [Notebook](https://colab.research.google.com/drive/18651wO_OPEU2uiW4idSm4DSpmg27bydA?usp=sharing)
 37. [Notebook](https://colab.research.google.com/drive/1F3tf2HIPo0MUgEHb05_KmWDDzvU5rnES?usp=sharing)
-38. Basic Temperature Prediction Model — link not yet available
+38. Basic Temperature Prediction Model.
+
+15 prompt engineering projects 
+10 local projects 
 
 > Note: these notebooks require Google sign-in to open. If you want them viewable by anyone who clicks through, set sharing to "Anyone with the link" on each one in Google Drive.
 
