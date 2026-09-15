@@ -114,14 +114,11 @@ Top 17.6% worldwide — HackerRank Orchestrate, Sep 2026.
 37. [Notebook](https://colab.research.google.com/drive/1F3tf2HIPo0MUgEHb05_KmWDDzvU5rnES?usp=sharing)
 38. Basic Temperature Prediction Model.
 
-15 prompt engineering projects 
-10 local projects 
-
 > Note: these notebooks require Google sign-in to open. If you want them viewable by anyone who clicks through, set sharing to "Anyone with the link" on each one in Google Drive.
 
 ## Not Yet Linked
 
 - 15 prompt engineering projects
-- 7 local projects
+- 10 local projects
 
 These exist but aren't uploaded/linked anywhere yet — send over the files or repos and they'll get added here.
