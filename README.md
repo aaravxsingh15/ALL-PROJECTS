@@ -121,6 +121,6 @@ Top 17.6% worldwide — HackerRank Orchestrate, Sep 2026.
 ## Not Yet Linked
 
 - 15 prompt engineering projects
-- 10 local projects
+- 12 local projects
 
 These exist but aren't uploaded/linked anywhere yet — send over the files or repos and they'll get added here.
