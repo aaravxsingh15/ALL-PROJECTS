@@ -91,14 +91,14 @@ Top 17.6% worldwide — HackerRank Orchestrate, Sep 2026.
 11. [Notebook](https://colab.research.google.com/drive/19FCkZsd0cjQsZzgb240d_tSw2RYmArPo?usp=sharing)
 12. [Notebook](https://colab.research.google.com/drive/1EEQA7Vgk4QqY3g3HzZYJMiQ3gbh7Xxpc?usp=sharing)
 13. [Notebook](https://colab.research.google.com/drive/1GSJDCKv87gIwvdBGh8_CbnBEUGPFAMsH?usp=sharing)
-14. [Notebook](https://colab.research.google.com/drive/1FG6kWLqB8VOzjp8NupWIniOxfl8pOk5A?usp=sharing)
-15. [Notebook](https://colab.research.google.com/drive/1TL0WmlvD0vEyABWofbx7dzcGKcRFRSMr?usp=sharing)
-16. [Notebook](https://colab.research.google.com/drive/1FrUUFvJ0exEAvykK4S6ndfKHGsUEe9z8?usp=sharing)
-17. [Notebook](https://colab.research.google.com/drive/1tjwPhlpOxTtOHoXCxOCxbgCM48ca99J0?usp=sharing)
+14. [QR Code Generator Tool](https://colab.research.google.com/drive/1FG6kWLqB8VOzjp8NupWIniOxfl8pOk5A?usp=sharing)
+15. [AI Resume Screening Pipeline](https://colab.research.google.com/drive/1TL0WmlvD0vEyABWofbx7dzcGKcRFRSMr?usp=sharing)
+16. [Smart Prompt Router](https://colab.research.google.com/drive/1FrUUFvJ0exEAvykK4S6ndfKHGsUEe9z8?usp=sharing)
+17. [FinTune-LM: Finance Domain LLM Fine-Tuning using LoRA](https://colab.research.google.com/drive/1tjwPhlpOxTtOHoXCxOCxbgCM48ca99J0?usp=sharing) *(notebook version of the [FinTune-LM](https://github.com/aaravxsingh15/FinTune-LM-Finance-Domain-LLM-Fine-Tuning-using-LoRA.) repo above)*
 18. [Notebook](https://colab.research.google.com/drive/1mbUBhB5_YI2zC1BBYtCqBR16e8FMm9bq?usp=sharing)
-19. [Notebook](https://colab.research.google.com/drive/1mCSoC3EZ-NL7zaiPIa53oFjk0UF0zmt-?usp=sharing)
-20. [Notebook](https://colab.research.google.com/drive/1JorSKicHNeecwADfd2YxEV5yFVELTK2V?usp=sharing)
-21. [Notebook](https://colab.research.google.com/drive/1lJCWtuIKuKtQWgS--iTIKPfT7Gma1Ke3?usp=sharing)
+19. [SemanticCache AI: Intelligent Semantic Caching Layer for LLM APIs](https://colab.research.google.com/drive/1mCSoC3EZ-NL7zaiPIa53oFjk0UF0zmt-?usp=sharing)
+20. [DocuMind AI: Intelligent Document Processing Pipeline](https://colab.research.google.com/drive/1JorSKicHNeecwADfd2YxEV5yFVELTK2V?usp=sharing)
+21. [PromptShield ML: Multi-Class Prompt Injection Detection using NLP & Machine Learning](https://colab.research.google.com/drive/1lJCWtuIKuKtQWgS--iTIKPfT7Gma1Ke3?usp=sharing) *(notebook version of the [PromptShield-ML](https://github.com/aaravxsingh15/PromptShield-ML-Multi-Class-Prompt-Injection-Detection-using-NLP-Machine-Learning) repo above)*
 22. [Notebook](https://colab.research.google.com/drive/1fJ-TS6AdsXdcebCB2aPhL8cnRp3D1jc2?usp=sharing)
 23. [Notebook](https://colab.research.google.com/drive/1nrznfes-S7bp_iLeRIbsWdv6x2GTrY01?usp=sharing)
 24. [Notebook](https://colab.research.google.com/drive/1oOpXQHAeB-ksYNWWswYB4INBKoYU1J19?usp=sharing)
@@ -109,13 +109,15 @@ Top 17.6% worldwide — HackerRank Orchestrate, Sep 2026.
 29. [Notebook](https://colab.research.google.com/drive/142CYsJEtbqt179sCa3kg3Jl7gMj6WhEj?usp=sharing)
 30. [Notebook](https://colab.research.google.com/drive/1zCE3OgcIRh2xJ_ukWqNxd36xaN5I0l-Z?usp=sharing)
 31. [Notebook](https://colab.research.google.com/drive/1Ff8k07iidiiVx-qlw5KVxwCYtZji-EHY?usp=sharing)
-32. [Notebook](https://colab.research.google.com/drive/1bNp2EHfHCZhqNG_v2jv4dfbM2zl5u99X?usp=sharing)
+32. [IPL Graph Analysis and Result](https://colab.research.google.com/drive/1bNp2EHfHCZhqNG_v2jv4dfbM2zl5u99X?usp=sharing)
 33. [Notebook](https://colab.research.google.com/drive/1sFEIPdS2IwcXOGRIQWV2_H8fgUeC3002?usp=sharing)
 34. [Notebook](https://colab.research.google.com/drive/1l--Cj6fAOkMoC3sro6_LG7TO0E6gWAFt?usp=sharing)
 35. [Notebook](https://colab.research.google.com/drive/1y7W1f6aLyWqBPOYyrPrhnv42gmIGyq6R?usp=sharing)
 36. [Notebook](https://colab.research.google.com/drive/18651wO_OPEU2uiW4idSm4DSpmg27bydA?usp=sharing)
 37. [Notebook](https://colab.research.google.com/drive/1F3tf2HIPo0MUgEHb05_KmWDDzvU5rnES?usp=sharing)
-38. Basic Temperature Prediction Model.
+38. Basic Temperature Prediction Model. *(link not yet available)*
+39. Global Aviation Intelligence Dashboard *(notebook version of the [Global-Aviation-Intelligence-Dashboard](https://github.com/aaravxsingh15/Global-Aviation-Intelligence-Dashboard) repo above — link not yet available)*
+40. Global IC Market Intelligence Dashboard *(link not yet available)*
 
 
 ## Not Yet Linked
