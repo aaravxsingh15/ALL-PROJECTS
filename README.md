@@ -82,11 +82,11 @@ Top 17.6% worldwide — HackerRank Orchestrate, Sep 2026.
 2. [Notebook](https://colab.research.google.com/drive/1Bn-TXpLcypMyZwb7iJsaj3pIWQbWiHPf?usp=sharing)
 3. [Notebook](https://colab.research.google.com/drive/1SAvqdVUqwVi4Ag1ZDC9ysdj3TS0h2yZK?usp=sharing)
 4. [Notebook](https://colab.research.google.com/drive/1cK5FmgkNWcT3JX1O9Pkufu2GVbs5vjJP?usp=sharing)
-5. [Notebook](https://colab.research.google.com/drive/1nZwhFPIKb0_1Bz8PkI6us6urT63zNSXq?usp=sharing)
-6. [Notebook](https://colab.research.google.com/drive/1J5VHv0GvwzVytrpt_X-dWTBpvp92p00c?usp=sharing)
+5. [Hallucination Detection Pipeline](https://colab.research.google.com/drive/1nZwhFPIKb0_1Bz8PkI6us6urT63zNSXq?usp=sharing) *(notebook version of the [Hallucination-Detection-Pipeline](https://github.com/aaravxsingh15/Hallucination-Detection-Pipeline) repo above)*
+6. [AI Prompt Versioning & A/B Testing Pipeline](https://colab.research.google.com/drive/1J5VHv0GvwzVytrpt_X-dWTBpvp92p00c?usp=sharing)
 7. [Notebook](https://colab.research.google.com/drive/1pDUZ9vH_Eltpzt3Kap-ziuo4SMpa1rDm?usp=sharing)
 8. [Notebook](https://colab.research.google.com/drive/1X37SZ7gb8cH0pV0LjCKFO_WMZaCXG766?usp=sharing)
-9. [Notebook](https://colab.research.google.com/drive/1y7VOD2IRBsdmqhrIK0oRbUkHjSO2e-xu?usp=sharing)
+9. [SmartTwin AI](https://colab.research.google.com/drive/1y7VOD2IRBsdmqhrIK0oRbUkHjSO2e-xu?usp=sharing)
 10. [Notebook](https://colab.research.google.com/drive/17cLKW7dg3zNjRGpnNNILO50nJSjjTIW3?usp=sharing)
 11. [Notebook](https://colab.research.google.com/drive/19FCkZsd0cjQsZzgb240d_tSw2RYmArPo?usp=sharing)
 12. [Notebook](https://colab.research.google.com/drive/1EEQA7Vgk4QqY3g3HzZYJMiQ3gbh7Xxpc?usp=sharing)
@@ -118,6 +118,7 @@ Top 17.6% worldwide — HackerRank Orchestrate, Sep 2026.
 38. Basic Temperature Prediction Model. *(link not yet available)*
 39. Global Aviation Intelligence Dashboard *(notebook version of the [Global-Aviation-Intelligence-Dashboard](https://github.com/aaravxsingh15/Global-Aviation-Intelligence-Dashboard) repo above — link not yet available)*
 40. Global IC Market Intelligence Dashboard *(link not yet available)*
+41. [Fake News Detector with IR & ML](https://colab.research.google.com/drive/1aH7u4nwIu_iM2L5nKL2GWXS3yLOIcSsU?usp=sharing)
 
 
 ## Not Yet Linked
