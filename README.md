@@ -119,6 +119,7 @@ Top 17.6% worldwide — HackerRank Orchestrate, Sep 2026.
 39. Global Aviation Intelligence Dashboard *(notebook version of the [Global-Aviation-Intelligence-Dashboard](https://github.com/aaravxsingh15/Global-Aviation-Intelligence-Dashboard) repo above — link not yet available)*
 40. Global IC Market Intelligence Dashboard *(link not yet available)*
 41. [Fake News Detector with IR & ML](https://colab.research.google.com/drive/1aH7u4nwIu_iM2L5nKL2GWXS3yLOIcSsU?usp=sharing)
+42. Finance 101 – Capital Asset Pricing Model *(link not yet available)*
 
 
 ## Not Yet Linked
